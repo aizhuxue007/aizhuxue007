@@ -1,12 +1,12 @@
-<h1>Hi, I'm Aizhu Xue, an <a href="https://www.linkedin.com/in/aizhuxue/">IT Technician </a>☺</h1>
+<h1>Hi! I'm Aizhu Xue, an <a href="https://www.linkedin.com/in/aizhuxue/">IT Technician </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket</b>
   - [osTicket: Prerequisites](https://github.com/aizhuxue007/osticket-prereqs)
   - [osTicket: Installation](https://github.com/aizhuxue007/osticket-installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/aizhuxue007/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/aizhuxue007/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/aizhuxue007/osticket-postinstall)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/aizhuxue007/osticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/aizhuxue007/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aizhuxue007/azure-network-protocols)
