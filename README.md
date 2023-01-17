@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/aizhuxue007/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aizhuxue007/azure-network-protocols)
-  - [Understanding DNS records] (https://github.com/aizhuxue007/azure-network-protocols)
+  - [Understanding DNS records](https://github.com/aizhuxue007/azure-network-protocols)
 
 
 <h2>🤳Connect with me on Linked-In:</h2>
