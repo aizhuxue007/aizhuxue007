@@ -14,8 +14,3 @@
   - [Network File Share and Permissions](https://github.com/aizhuxue007/fileshare-and-permissions)
 
 
-<h2>🤳Connect with me on Linked-In:</h2>
-
-[<img align="left" alt="Ai Zhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/aizhuxue
