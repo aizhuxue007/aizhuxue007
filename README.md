@@ -7,7 +7,7 @@
   - [osTicket: Installation](https://github.com/aizhuxue007/osticket-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/aizhuxue007/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aizhuxue007/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure (Cloud Service Provider)</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/aizhuxue007/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aizhuxue007/azure-network-protocols)
   - [Understanding Domain Name Server (DNS) Records](https://github.com/aizhuxue007/dns-records)
