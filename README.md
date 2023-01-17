@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aizhu Xue, an <a href="https://linkedin.com/in/Josh">IT Technician </a>☺</h1>
+<h1>Hi, I'm Aizhu Xue, an <a href="https://www.linkedin.com/in/aizhuxue/">IT Technician </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
