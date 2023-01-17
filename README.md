@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket</b>
-  - [osTicket: Prerequisites](https://github.com/aizhuxue007/osticket-prereqs)
-  - [osTicket: Installation](https://github.com/aizhuxue007/osticket-installation)
+  - [Prerequisites](https://github.com/aizhuxue007/osticket-prereqs)
+  - [Installation](https://github.com/aizhuxue007/osticket-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/aizhuxue007/osticket-postinstall)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aizhuxue007/osticket-lifecycle)
 - <b>Microsoft Azure</b>
