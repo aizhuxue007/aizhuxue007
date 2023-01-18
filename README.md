@@ -1,6 +1,6 @@
 <h1>Hi! I'm Aizhu Xue, an <a href="https://www.linkedin.com/in/aizhuxue/">IT Technician </a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Labs:</h2>
 
 - <b>osTicket</b>
   - [Prerequisites](https://github.com/aizhuxue007/osticket-prereqs)
