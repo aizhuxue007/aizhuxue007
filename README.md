@@ -5,7 +5,7 @@
 - <b>osTicket</b>
   - [Prerequisites](https://github.com/aizhuxue007/osticket-prereqs)
   - [Installation](https://github.com/aizhuxue007/osticket-installation)
-  - [Post-Installation Configuration](https://github.com/aizhuxue007/osticket-postinstall)
+  - [Post-Installation and Configuration](https://github.com/aizhuxue007/osticket-postinstall)
   - [Ticket Lifecycle Examples](https://github.com/aizhuxue007/osticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/aizhuxue007/configuring-ad)
