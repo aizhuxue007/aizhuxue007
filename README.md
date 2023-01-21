@@ -7,10 +7,10 @@
   - [Installation](https://github.com/aizhuxue007/osticket-installation)
   - [Configuring Helpdesk Environment](https://github.com/aizhuxue007/osticket-postinstall)
   - [Ticket Lifecycle Examples](https://github.com/aizhuxue007/osticket-lifecycle)
-- <b>Microsoft Azure</b>
+<!-- - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/aizhuxue007/configuring-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aizhuxue007/azure-network-protocols)
   - [Understanding Domain Name Server (DNS) Records](https://github.com/aizhuxue007/dns-records)
-  - [Network File Share and Permissions](https://github.com/aizhuxue007/fileshare-and-permissions)
+  - [Network File Share and Permissions](https://github.com/aizhuxue007/fileshare-and-permissions) -->
 
 
